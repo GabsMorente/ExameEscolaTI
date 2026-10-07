@@ -16,7 +16,7 @@
 
 | # | URL | O que foi consultado | Onde aparece no entregável |
 | --- | --- | --- | --- |
-| — | | | |
+| — |[ ](https://chatgpt.com/share/6ac6d7c1-4290-83e9-b147-e3d5d2008c08)| Usei o chat para estruturar meus arquivos, corrigindo a gramatica e colocando em formato .md | Formatação das entregas - pasta SDD_Respostas |
 
 *(Ex.: `https://docs.oracle.com/...` → sintaxe de `Optional` → `plan.md` na
 seção de decisões. Esse link é ILUSTRATIVO — fora de linha numerada não
